@@ -15,7 +15,7 @@ Analyze past climate data & forecast future temperature trends using Python, Mat
 📁 Folder Structure
 
 - `data/`: Raw CSV data
-- `images/`: Auto-generated plots
+- `images/`: Generated plots
 - `notebooks/`: Jupyter Notebook
 
 
